@@ -8,8 +8,8 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=SYSTEM%20VISITS&color=00f5ff&style=for-the-badge&labelColor=05070d)
-![Status](https://img.shields.io/badge/STATUS-LEARNING%20MODE-39ff14?style=for-the-badge&labelColor=05070d&logo=statuspage&logoColor=39ff14)
+![Profile Views](https://komarev.com/ghpvc/?username=&label=SYSTEM%20VISITS&color=00f5ff&style=for-the-badge&labelColor=05070d)
+![Status](https://img.shields.io/badge/STATUS-LEARNING%20MODE-39ff14?style=for-the-badge&labelColor=05070d&Aathif-12logo=statuspage&logoColor=39ff14)
 ![Coffee](https://img.shields.io/badge/FUEL-COFFEE%20%E2%98%95-ff2bd6?style=for-the-badge&labelColor=05070d)
 ![Maths](https://img.shields.io/badge/MATHS-TOP%20NOTCH-7a5cff?style=for-the-badge&labelColor=05070d)
 
