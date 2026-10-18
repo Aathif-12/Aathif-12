@@ -141,9 +141,10 @@ flowchart LR
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark&no-frame=true&no-bg=true&margin-w=12&row=1&column=6" />
+<img src="https://raw.githubusercontent.com/Aathif-12/Aathif-12/output/github-snake-dark.svg" alt="snake" width="100%"/>
 
 </div>
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
