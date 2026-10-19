@@ -35,7 +35,7 @@ from coffee import fuel
 
 
 class Aathfi:
-    name     = "Muhammad Aathfi Amer"
+    name     = "Muhammad Aathif Amer"
     role     = "First-year Computer Science Student"
     status   = "Learning"
     maths    = "top-notch"
