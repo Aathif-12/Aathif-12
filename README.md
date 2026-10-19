@@ -60,7 +60,7 @@ class Aathfi:
 
 
 if __name__ == "__main__":
-    me = Aathfi()
+    me = Aathif()
     print(me)   # -> still learning. already building.
 ```
 
