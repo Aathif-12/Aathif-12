@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:0a0f2c,100:00f5ff&height=260&section=header&text=AATHFI%20AMER&fontSize=70&fontColor=00f5ff&animation=twinkling&fontAlignY=38&desc=//%20initializing%20future...&descSize=18&descAlignY=62&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:0a0f2c,100:00f5ff&height=260&section=header&text=AATHIF%20AMER&fontSize=70&fontColor=00f5ff&animation=twinkling&fontAlignY=38&desc=//%20initializing%20future...&descSize=18&descAlignY=62&descAlign=50" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&multiline=false&width=760&height=50&lines=%3E+Muhammad+Aathfi+Amer;%3E+CS+Student+%7C+Year+1;%3E+Python+%E2%80%A2+C+%E2%80%A2+Web+Dev;%3E+Understanding+HOW+things+work%2C+not+just+WHAT+works;%3E+Still+learning.+Already+building." alt="Typing SVG" />
